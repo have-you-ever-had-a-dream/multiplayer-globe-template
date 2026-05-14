@@ -67,7 +67,7 @@ function App() {
 			mapBrightness: 10,
 			baseColor: [0.3, 0.3, 0.3],
 			markerColor: [0.8, 0.1, 0.1],
-			glowColor: [0.16, 0.55, 0.96], // 39, 142, 245
+			glowColor: [0.96, 0.05, 1], // 39, 142, 245
 			markers: [],
 			opacity: 0.7,
 			onRender: (state) => {
